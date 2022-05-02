@@ -13,21 +13,21 @@ ___
 > #### Mapping and analyzing human mobility changes:
 > Execute Mobility Reports.ipynb to replicate Figure 7 to 10 and Figure 16.
 ```python
-    Mobility Reports.ipynb
+    Mobility Reports AGILE 2022.ipynb
 ``` 
 ___
 
 > #### Long-duration visits for outbreak and non-outbreak group:
 > Execute Outbreaks.ipynb to replicate Figure 11. 
 ```python
-    Outbreaks.ipynb
+    Outbreaks AGILE 2022.ipynb
 ``` 
 ___
 
 > #### Observed and Predicted miles in traffic network:
 > Execute Traffic Network.ipynb to replicate Figure 13a to 13b using traffic_data.csv
 ```python
-    Traffic Network.ipynb
+    Traffic Network AGILE 2022.ipynb
 ``` 
 ___
 
@@ -37,7 +37,7 @@ ___
 > Time Spent at Home” and “Distance Travel from Home : Figure 14(a) and Figure 14(b)
 > Mobility Assesment in MN : Figure 17(a) and Figure 17(b)
 ```python
-    Mobility Assesment.ipynb
+    Mobility Assesment AGILE 2022.ipynb
 ``` 
 ___
 

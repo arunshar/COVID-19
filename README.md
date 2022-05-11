@@ -32,8 +32,7 @@ ___
 ___
 
 > #### Miscilleanous Reports:
-> Execute Mobility Reports.ipynb to replicate the following:
-> Data Quality assessment based on Sampling Rate : Figure 12(b)
+> Execute Mobility Reports AGILE 2022.ipynb to replicate
 > Time Spent at Home” and “Distance Travel from Home : Figure 14(a) and Figure 14(b)
 > Mobility Assesment in MN : Figure 17(a) and Figure 17(b)
 ```python
